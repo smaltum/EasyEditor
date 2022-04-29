@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon_window.png</file>
+        <file>menu_pic.png</file>
+        <file>menu_video.png</file>
+        <file>crop.svg</file>
+        <file>cut.svg</file>
+        <file>export.svg</file>
+        <file>merge.svg</file>
+        <file>music.svg</file>
+        <file>res.qrc</file>
+        <file>rotate.svg</file>
+        <file>screenshot.svg</file>
+        <file>silence.svg</file>
+        <file>speed.svg</file>
+        <file>video_open.png</file>
+        <file>video_play.png</file>
+    </qresource>
+</RCC>
